@@ -1,0 +1,9 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "vercel-build": "pnpm approve-builds --yes && next build",
+    "start": "next start",
+    "lint": "next lint"
+  }
+}
